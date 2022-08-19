@@ -1,0 +1,28 @@
+C:\Users\UNAB\Desktop\C-Sharp\Console\ListStudents\ListStudents\bin\Debug\netcoreapp3.1\ListStudents.exe
+C:\Users\UNAB\Desktop\C-Sharp\Console\ListStudents\ListStudents\bin\Debug\netcoreapp3.1\ListStudents.deps.json
+C:\Users\UNAB\Desktop\C-Sharp\Console\ListStudents\ListStudents\bin\Debug\netcoreapp3.1\ListStudents.runtimeconfig.json
+C:\Users\UNAB\Desktop\C-Sharp\Console\ListStudents\ListStudents\bin\Debug\netcoreapp3.1\ListStudents.runtimeconfig.dev.json
+C:\Users\UNAB\Desktop\C-Sharp\Console\ListStudents\ListStudents\bin\Debug\netcoreapp3.1\ListStudents.dll
+C:\Users\UNAB\Desktop\C-Sharp\Console\ListStudents\ListStudents\bin\Debug\netcoreapp3.1\ListStudents.pdb
+C:\Users\UNAB\Desktop\C-Sharp\Console\ListStudents\ListStudents\obj\Debug\netcoreapp3.1\ListStudents.csproj.AssemblyReference.cache
+C:\Users\UNAB\Desktop\C-Sharp\Console\ListStudents\ListStudents\obj\Debug\netcoreapp3.1\ListStudents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNAB\Desktop\C-Sharp\Console\ListStudents\ListStudents\obj\Debug\netcoreapp3.1\ListStudents.AssemblyInfoInputs.cache
+C:\Users\UNAB\Desktop\C-Sharp\Console\ListStudents\ListStudents\obj\Debug\netcoreapp3.1\ListStudents.AssemblyInfo.cs
+C:\Users\UNAB\Desktop\C-Sharp\Console\ListStudents\ListStudents\obj\Debug\netcoreapp3.1\ListStudents.csproj.CoreCompileInputs.cache
+C:\Users\UNAB\Desktop\C-Sharp\Console\ListStudents\ListStudents\obj\Debug\netcoreapp3.1\ListStudents.dll
+C:\Users\UNAB\Desktop\C-Sharp\Console\ListStudents\ListStudents\obj\Debug\netcoreapp3.1\ListStudents.pdb
+C:\Users\UNAB\Desktop\C-Sharp\Console\ListStudents\ListStudents\obj\Debug\netcoreapp3.1\ListStudents.genruntimeconfig.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\ListStudents\ListStudents\bin\Debug\netcoreapp3.1\ListStudents.exe
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\ListStudents\ListStudents\bin\Debug\netcoreapp3.1\ListStudents.deps.json
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\ListStudents\ListStudents\bin\Debug\netcoreapp3.1\ListStudents.runtimeconfig.json
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\ListStudents\ListStudents\bin\Debug\netcoreapp3.1\ListStudents.runtimeconfig.dev.json
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\ListStudents\ListStudents\bin\Debug\netcoreapp3.1\ListStudents.dll
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\ListStudents\ListStudents\bin\Debug\netcoreapp3.1\ListStudents.pdb
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\ListStudents\ListStudents\obj\Debug\netcoreapp3.1\ListStudents.csproj.AssemblyReference.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\ListStudents\ListStudents\obj\Debug\netcoreapp3.1\ListStudents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\ListStudents\ListStudents\obj\Debug\netcoreapp3.1\ListStudents.AssemblyInfoInputs.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\ListStudents\ListStudents\obj\Debug\netcoreapp3.1\ListStudents.AssemblyInfo.cs
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\ListStudents\ListStudents\obj\Debug\netcoreapp3.1\ListStudents.csproj.CoreCompileInputs.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\ListStudents\ListStudents\obj\Debug\netcoreapp3.1\ListStudents.dll
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\ListStudents\ListStudents\obj\Debug\netcoreapp3.1\ListStudents.pdb
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\ListStudents\ListStudents\obj\Debug\netcoreapp3.1\ListStudents.genruntimeconfig.cache
