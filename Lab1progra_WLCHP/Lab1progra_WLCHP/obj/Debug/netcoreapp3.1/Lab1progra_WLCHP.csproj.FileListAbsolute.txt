@@ -1,0 +1,14 @@
+C:\Users\ALUMNO\Documents\Wendy.p\Lab1progra_WLCHP\Lab1progra_WLCHP\bin\Debug\netcoreapp3.1\Lab1progra_WLCHP.exe
+C:\Users\ALUMNO\Documents\Wendy.p\Lab1progra_WLCHP\Lab1progra_WLCHP\bin\Debug\netcoreapp3.1\Lab1progra_WLCHP.deps.json
+C:\Users\ALUMNO\Documents\Wendy.p\Lab1progra_WLCHP\Lab1progra_WLCHP\bin\Debug\netcoreapp3.1\Lab1progra_WLCHP.runtimeconfig.json
+C:\Users\ALUMNO\Documents\Wendy.p\Lab1progra_WLCHP\Lab1progra_WLCHP\bin\Debug\netcoreapp3.1\Lab1progra_WLCHP.runtimeconfig.dev.json
+C:\Users\ALUMNO\Documents\Wendy.p\Lab1progra_WLCHP\Lab1progra_WLCHP\bin\Debug\netcoreapp3.1\Lab1progra_WLCHP.dll
+C:\Users\ALUMNO\Documents\Wendy.p\Lab1progra_WLCHP\Lab1progra_WLCHP\bin\Debug\netcoreapp3.1\Lab1progra_WLCHP.pdb
+C:\Users\ALUMNO\Documents\Wendy.p\Lab1progra_WLCHP\Lab1progra_WLCHP\obj\Debug\netcoreapp3.1\Lab1progra_WLCHP.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Documents\Wendy.p\Lab1progra_WLCHP\Lab1progra_WLCHP\obj\Debug\netcoreapp3.1\Lab1progra_WLCHP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUMNO\Documents\Wendy.p\Lab1progra_WLCHP\Lab1progra_WLCHP\obj\Debug\netcoreapp3.1\Lab1progra_WLCHP.AssemblyInfoInputs.cache
+C:\Users\ALUMNO\Documents\Wendy.p\Lab1progra_WLCHP\Lab1progra_WLCHP\obj\Debug\netcoreapp3.1\Lab1progra_WLCHP.AssemblyInfo.cs
+C:\Users\ALUMNO\Documents\Wendy.p\Lab1progra_WLCHP\Lab1progra_WLCHP\obj\Debug\netcoreapp3.1\Lab1progra_WLCHP.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Documents\Wendy.p\Lab1progra_WLCHP\Lab1progra_WLCHP\obj\Debug\netcoreapp3.1\Lab1progra_WLCHP.dll
+C:\Users\ALUMNO\Documents\Wendy.p\Lab1progra_WLCHP\Lab1progra_WLCHP\obj\Debug\netcoreapp3.1\Lab1progra_WLCHP.pdb
+C:\Users\ALUMNO\Documents\Wendy.p\Lab1progra_WLCHP\Lab1progra_WLCHP\obj\Debug\netcoreapp3.1\Lab1progra_WLCHP.genruntimeconfig.cache
