@@ -1,0 +1,33 @@
+C:\Users\USUARIO\Desktop\Progra ll\Lista_Libreria\Lista_Libreria\bin\Debug\Lista_Libreria.exe.config
+C:\Users\USUARIO\Desktop\Progra ll\Lista_Libreria\Lista_Libreria\bin\Debug\Lista_Libreria.exe
+C:\Users\USUARIO\Desktop\Progra ll\Lista_Libreria\Lista_Libreria\bin\Debug\Lista_Libreria.pdb
+C:\Users\USUARIO\Desktop\Progra ll\Lista_Libreria\Lista_Libreria\obj\Debug\Lista_Libreria.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Progra ll\Lista_Libreria\Lista_Libreria\obj\Debug\Lista_Libreria.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\Progra ll\Lista_Libreria\Lista_Libreria\obj\Debug\Lista_Libreria.Form1.resources
+C:\Users\USUARIO\Desktop\Progra ll\Lista_Libreria\Lista_Libreria\obj\Debug\Lista_Libreria.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Progra ll\Lista_Libreria\Lista_Libreria\obj\Debug\Lista_Libreria.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Progra ll\Lista_Libreria\Lista_Libreria\obj\Debug\Lista_Libreria.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Progra ll\Lista_Libreria\Lista_Libreria\obj\Debug\Lista_Libreria.exe
+C:\Users\USUARIO\Desktop\Progra ll\Lista_Libreria\Lista_Libreria\obj\Debug\Lista_Libreria.pdb
+C:\Users\cance\OneDrive\Escritorio\Lista_Libreria\Lista_Libreria\bin\Debug\Lista_Libreria.exe.config
+C:\Users\cance\OneDrive\Escritorio\Lista_Libreria\Lista_Libreria\bin\Debug\Lista_Libreria.exe
+C:\Users\cance\OneDrive\Escritorio\Lista_Libreria\Lista_Libreria\bin\Debug\Lista_Libreria.pdb
+C:\Users\cance\OneDrive\Escritorio\Lista_Libreria\Lista_Libreria\obj\Debug\Lista_Libreria.csproj.AssemblyReference.cache
+C:\Users\cance\OneDrive\Escritorio\Lista_Libreria\Lista_Libreria\obj\Debug\Lista_Libreria.csproj.SuggestedBindingRedirects.cache
+C:\Users\cance\OneDrive\Escritorio\Lista_Libreria\Lista_Libreria\obj\Debug\Lista_Libreria.Form1.resources
+C:\Users\cance\OneDrive\Escritorio\Lista_Libreria\Lista_Libreria\obj\Debug\Lista_Libreria.Properties.Resources.resources
+C:\Users\cance\OneDrive\Escritorio\Lista_Libreria\Lista_Libreria\obj\Debug\Lista_Libreria.csproj.GenerateResource.cache
+C:\Users\cance\OneDrive\Escritorio\Lista_Libreria\Lista_Libreria\obj\Debug\Lista_Libreria.csproj.CoreCompileInputs.cache
+C:\Users\cance\OneDrive\Escritorio\Lista_Libreria\Lista_Libreria\obj\Debug\Lista_Libreria.exe
+C:\Users\cance\OneDrive\Escritorio\Lista_Libreria\Lista_Libreria\obj\Debug\Lista_Libreria.pdb
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\Lista_Libreria\Lista_Libreria\bin\Debug\Lista_Libreria.exe.config
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\Lista_Libreria\Lista_Libreria\bin\Debug\Lista_Libreria.exe
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\Lista_Libreria\Lista_Libreria\bin\Debug\Lista_Libreria.pdb
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\Lista_Libreria\Lista_Libreria\obj\Debug\Lista_Libreria.csproj.AssemblyReference.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\Lista_Libreria\Lista_Libreria\obj\Debug\Lista_Libreria.csproj.SuggestedBindingRedirects.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\Lista_Libreria\Lista_Libreria\obj\Debug\Lista_Libreria.Form1.resources
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\Lista_Libreria\Lista_Libreria\obj\Debug\Lista_Libreria.Properties.Resources.resources
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\Lista_Libreria\Lista_Libreria\obj\Debug\Lista_Libreria.csproj.GenerateResource.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\Lista_Libreria\Lista_Libreria\obj\Debug\Lista_Libreria.csproj.CoreCompileInputs.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\Lista_Libreria\Lista_Libreria\obj\Debug\Lista_Libreria.exe
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\Lista_Libreria\Lista_Libreria\obj\Debug\Lista_Libreria.pdb
