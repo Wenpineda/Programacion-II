@@ -1,0 +1,17 @@
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\Listas\Listas\bin\Debug\net6.0-windows\Listas.exe
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\Listas\Listas\bin\Debug\net6.0-windows\Listas.deps.json
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\Listas\Listas\bin\Debug\net6.0-windows\Listas.runtimeconfig.json
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\Listas\Listas\bin\Debug\net6.0-windows\Listas.dll
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\Listas\Listas\bin\Debug\net6.0-windows\Listas.pdb
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\Listas\Listas\obj\Debug\net6.0-windows\Listas.csproj.AssemblyReference.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\Listas\Listas\obj\Debug\net6.0-windows\Listas.Form1.resources
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\Listas\Listas\obj\Debug\net6.0-windows\Listas.csproj.GenerateResource.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\Listas\Listas\obj\Debug\net6.0-windows\Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\Listas\Listas\obj\Debug\net6.0-windows\Listas.AssemblyInfoInputs.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\Listas\Listas\obj\Debug\net6.0-windows\Listas.AssemblyInfo.cs
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\Listas\Listas\obj\Debug\net6.0-windows\Listas.csproj.CoreCompileInputs.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\Listas\Listas\obj\Debug\net6.0-windows\Listas.dll
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\Listas\Listas\obj\Debug\net6.0-windows\refint\Listas.dll
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\Listas\Listas\obj\Debug\net6.0-windows\Listas.pdb
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\Listas\Listas\obj\Debug\net6.0-windows\Listas.genruntimeconfig.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\Listas\Listas\obj\Debug\net6.0-windows\ref\Listas.dll
