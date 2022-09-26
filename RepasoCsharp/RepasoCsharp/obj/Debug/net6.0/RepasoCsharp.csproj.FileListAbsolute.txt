@@ -1,0 +1,15 @@
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\RepasoCsharp\RepasoCsharp\bin\Debug\net6.0\RepasoCsharp.exe
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\RepasoCsharp\RepasoCsharp\bin\Debug\net6.0\RepasoCsharp.deps.json
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\RepasoCsharp\RepasoCsharp\bin\Debug\net6.0\RepasoCsharp.runtimeconfig.json
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\RepasoCsharp\RepasoCsharp\bin\Debug\net6.0\RepasoCsharp.dll
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\RepasoCsharp\RepasoCsharp\bin\Debug\net6.0\RepasoCsharp.pdb
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\RepasoCsharp\RepasoCsharp\obj\Debug\net6.0\RepasoCsharp.csproj.AssemblyReference.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\RepasoCsharp\RepasoCsharp\obj\Debug\net6.0\RepasoCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\RepasoCsharp\RepasoCsharp\obj\Debug\net6.0\RepasoCsharp.AssemblyInfoInputs.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\RepasoCsharp\RepasoCsharp\obj\Debug\net6.0\RepasoCsharp.AssemblyInfo.cs
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\RepasoCsharp\RepasoCsharp\obj\Debug\net6.0\RepasoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\RepasoCsharp\RepasoCsharp\obj\Debug\net6.0\RepasoCsharp.dll
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\RepasoCsharp\RepasoCsharp\obj\Debug\net6.0\refint\RepasoCsharp.dll
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\RepasoCsharp\RepasoCsharp\obj\Debug\net6.0\RepasoCsharp.pdb
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\RepasoCsharp\RepasoCsharp\obj\Debug\net6.0\RepasoCsharp.genruntimeconfig.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\RepasoCsharp\RepasoCsharp\obj\Debug\net6.0\ref\RepasoCsharp.dll
