@@ -1,0 +1,11 @@
+F:\VS Projects\windowsFormArrays\windowsFormArrays\obj\Debug\windowsFormArrays.csproj.AssemblyReference.cache
+F:\VS Projects\windowsFormArrays\windowsFormArrays\obj\Debug\windowsFormArrays.csproj.SuggestedBindingRedirects.cache
+F:\VS Projects\windowsFormArrays\windowsFormArrays\obj\Debug\windowsFormArrays.Form1.resources
+F:\VS Projects\windowsFormArrays\windowsFormArrays\obj\Debug\windowsFormArrays.Properties.Resources.resources
+F:\VS Projects\windowsFormArrays\windowsFormArrays\obj\Debug\windowsFormArrays.csproj.GenerateResource.cache
+F:\VS Projects\windowsFormArrays\windowsFormArrays\obj\Debug\windowsFormArrays.csproj.CoreCompileInputs.cache
+F:\VS Projects\windowsFormArrays\windowsFormArrays\bin\Debug\windowsFormArrays.exe.config
+F:\VS Projects\windowsFormArrays\windowsFormArrays\bin\Debug\windowsFormArrays.exe
+F:\VS Projects\windowsFormArrays\windowsFormArrays\bin\Debug\windowsFormArrays.pdb
+F:\VS Projects\windowsFormArrays\windowsFormArrays\obj\Debug\windowsFormArrays.exe
+F:\VS Projects\windowsFormArrays\windowsFormArrays\obj\Debug\windowsFormArrays.pdb
