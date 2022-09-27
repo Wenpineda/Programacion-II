@@ -1,0 +1,11 @@
+C:\Users\Fredy Diaz\source\repos\ListadoEstudiante\ListadoEstudiante\bin\Debug\ListadoEstudiante.exe.config
+C:\Users\Fredy Diaz\source\repos\ListadoEstudiante\ListadoEstudiante\bin\Debug\ListadoEstudiante.exe
+C:\Users\Fredy Diaz\source\repos\ListadoEstudiante\ListadoEstudiante\bin\Debug\ListadoEstudiante.pdb
+C:\Users\Fredy Diaz\source\repos\ListadoEstudiante\ListadoEstudiante\obj\Debug\ListadoEstudiante.csproj.AssemblyReference.cache
+C:\Users\Fredy Diaz\source\repos\ListadoEstudiante\ListadoEstudiante\obj\Debug\ListadoEstudiante.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fredy Diaz\source\repos\ListadoEstudiante\ListadoEstudiante\obj\Debug\ListadoEstudiante.Form1.resources
+C:\Users\Fredy Diaz\source\repos\ListadoEstudiante\ListadoEstudiante\obj\Debug\ListadoEstudiante.Properties.Resources.resources
+C:\Users\Fredy Diaz\source\repos\ListadoEstudiante\ListadoEstudiante\obj\Debug\ListadoEstudiante.csproj.GenerateResource.cache
+C:\Users\Fredy Diaz\source\repos\ListadoEstudiante\ListadoEstudiante\obj\Debug\ListadoEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\Fredy Diaz\source\repos\ListadoEstudiante\ListadoEstudiante\obj\Debug\ListadoEstudiante.exe
+C:\Users\Fredy Diaz\source\repos\ListadoEstudiante\ListadoEstudiante\obj\Debug\ListadoEstudiante.pdb
