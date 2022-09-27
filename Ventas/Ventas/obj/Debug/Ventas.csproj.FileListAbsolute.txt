@@ -1,0 +1,11 @@
+C:\Users\Fredy Diaz\source\repos\Ventas\Ventas\bin\Debug\Ventas.exe.config
+C:\Users\Fredy Diaz\source\repos\Ventas\Ventas\bin\Debug\Ventas.exe
+C:\Users\Fredy Diaz\source\repos\Ventas\Ventas\bin\Debug\Ventas.pdb
+C:\Users\Fredy Diaz\source\repos\Ventas\Ventas\obj\Debug\Ventas.csproj.AssemblyReference.cache
+C:\Users\Fredy Diaz\source\repos\Ventas\Ventas\obj\Debug\Ventas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fredy Diaz\source\repos\Ventas\Ventas\obj\Debug\Ventas.Form1.resources
+C:\Users\Fredy Diaz\source\repos\Ventas\Ventas\obj\Debug\Ventas.Properties.Resources.resources
+C:\Users\Fredy Diaz\source\repos\Ventas\Ventas\obj\Debug\Ventas.csproj.GenerateResource.cache
+C:\Users\Fredy Diaz\source\repos\Ventas\Ventas\obj\Debug\Ventas.csproj.CoreCompileInputs.cache
+C:\Users\Fredy Diaz\source\repos\Ventas\Ventas\obj\Debug\Ventas.exe
+C:\Users\Fredy Diaz\source\repos\Ventas\Ventas\obj\Debug\Ventas.pdb
