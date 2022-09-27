@@ -1,0 +1,22 @@
+C:\Users\Fredy Diaz\source\repos\AlumnosCrud\AlumnosCrud\bin\Debug\AlumnosCrud.exe.config
+C:\Users\Fredy Diaz\source\repos\AlumnosCrud\AlumnosCrud\bin\Debug\AlumnosCrud.exe
+C:\Users\Fredy Diaz\source\repos\AlumnosCrud\AlumnosCrud\bin\Debug\AlumnosCrud.pdb
+C:\Users\Fredy Diaz\source\repos\AlumnosCrud\AlumnosCrud\obj\Debug\AlumnosCrud.csproj.AssemblyReference.cache
+C:\Users\Fredy Diaz\source\repos\AlumnosCrud\AlumnosCrud\obj\Debug\AlumnosCrud.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fredy Diaz\source\repos\AlumnosCrud\AlumnosCrud\obj\Debug\AlumnosCrud.Form1.resources
+C:\Users\Fredy Diaz\source\repos\AlumnosCrud\AlumnosCrud\obj\Debug\AlumnosCrud.Properties.Resources.resources
+C:\Users\Fredy Diaz\source\repos\AlumnosCrud\AlumnosCrud\obj\Debug\AlumnosCrud.csproj.GenerateResource.cache
+C:\Users\Fredy Diaz\source\repos\AlumnosCrud\AlumnosCrud\obj\Debug\AlumnosCrud.csproj.CoreCompileInputs.cache
+C:\Users\Fredy Diaz\source\repos\AlumnosCrud\AlumnosCrud\obj\Debug\AlumnosCrud.exe
+C:\Users\Fredy Diaz\source\repos\AlumnosCrud\AlumnosCrud\obj\Debug\AlumnosCrud.pdb
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\TUTORIAS\AlumnosCrud\AlumnosCrud\bin\Debug\AlumnosCrud.exe.config
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\TUTORIAS\AlumnosCrud\AlumnosCrud\bin\Debug\AlumnosCrud.exe
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\TUTORIAS\AlumnosCrud\AlumnosCrud\bin\Debug\AlumnosCrud.pdb
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\TUTORIAS\AlumnosCrud\AlumnosCrud\obj\Debug\AlumnosCrud.csproj.AssemblyReference.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\TUTORIAS\AlumnosCrud\AlumnosCrud\obj\Debug\AlumnosCrud.csproj.SuggestedBindingRedirects.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\TUTORIAS\AlumnosCrud\AlumnosCrud\obj\Debug\AlumnosCrud.Form1.resources
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\TUTORIAS\AlumnosCrud\AlumnosCrud\obj\Debug\AlumnosCrud.Properties.Resources.resources
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\TUTORIAS\AlumnosCrud\AlumnosCrud\obj\Debug\AlumnosCrud.csproj.GenerateResource.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\TUTORIAS\AlumnosCrud\AlumnosCrud\obj\Debug\AlumnosCrud.csproj.CoreCompileInputs.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\TUTORIAS\AlumnosCrud\AlumnosCrud\obj\Debug\AlumnosCrud.exe
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\TUTORIAS\AlumnosCrud\AlumnosCrud\obj\Debug\AlumnosCrud.pdb
