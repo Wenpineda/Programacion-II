@@ -1,0 +1,24 @@
+F:\VS Projects\MiPlaylist\MiPlaylist\bin\Debug\MiPlaylist.exe.config
+F:\VS Projects\MiPlaylist\MiPlaylist\bin\Debug\MiPlaylist.exe
+F:\VS Projects\MiPlaylist\MiPlaylist\bin\Debug\MiPlaylist.pdb
+F:\VS Projects\MiPlaylist\MiPlaylist\obj\Debug\MiPlaylist.csproj.AssemblyReference.cache
+F:\VS Projects\MiPlaylist\MiPlaylist\obj\Debug\MiPlaylist.csproj.SuggestedBindingRedirects.cache
+F:\VS Projects\MiPlaylist\MiPlaylist\obj\Debug\MiPlaylist.Form1.resources
+F:\VS Projects\MiPlaylist\MiPlaylist\obj\Debug\MiPlaylist.Properties.Resources.resources
+F:\VS Projects\MiPlaylist\MiPlaylist\obj\Debug\MiPlaylist.csproj.GenerateResource.cache
+F:\VS Projects\MiPlaylist\MiPlaylist\obj\Debug\MiPlaylist.csproj.CoreCompileInputs.cache
+F:\VS Projects\MiPlaylist\MiPlaylist\obj\Debug\MiPlaylist.exe
+F:\VS Projects\MiPlaylist\MiPlaylist\obj\Debug\MiPlaylist.pdb
+F:\VS Projects\MiPlaylist\MiPlaylist\obj\Debug\MiPlaylist.PlayList.resources
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\TUTORIAS\MiPlaylist\MiPlaylist\bin\Debug\MiPlaylist.exe.config
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\TUTORIAS\MiPlaylist\MiPlaylist\bin\Debug\MiPlaylist.exe
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\TUTORIAS\MiPlaylist\MiPlaylist\bin\Debug\MiPlaylist.pdb
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\TUTORIAS\MiPlaylist\MiPlaylist\obj\Debug\MiPlaylist.csproj.AssemblyReference.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\TUTORIAS\MiPlaylist\MiPlaylist\obj\Debug\MiPlaylist.csproj.SuggestedBindingRedirects.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\TUTORIAS\MiPlaylist\MiPlaylist\obj\Debug\MiPlaylist.Form1.resources
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\TUTORIAS\MiPlaylist\MiPlaylist\obj\Debug\MiPlaylist.PlayList.resources
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\TUTORIAS\MiPlaylist\MiPlaylist\obj\Debug\MiPlaylist.Properties.Resources.resources
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\TUTORIAS\MiPlaylist\MiPlaylist\obj\Debug\MiPlaylist.csproj.GenerateResource.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\TUTORIAS\MiPlaylist\MiPlaylist\obj\Debug\MiPlaylist.csproj.CoreCompileInputs.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\TUTORIAS\MiPlaylist\MiPlaylist\obj\Debug\MiPlaylist.exe
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO IV\Programacion II\TUTORIAS\MiPlaylist\MiPlaylist\obj\Debug\MiPlaylist.pdb
