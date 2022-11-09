@@ -1,0 +1,11 @@
+C:\Users\Fredy Diaz\source\repos\ProductosM\ProductosM\bin\Debug\ProductosM.exe.config
+C:\Users\Fredy Diaz\source\repos\ProductosM\ProductosM\bin\Debug\ProductosM.exe
+C:\Users\Fredy Diaz\source\repos\ProductosM\ProductosM\bin\Debug\ProductosM.pdb
+C:\Users\Fredy Diaz\source\repos\ProductosM\ProductosM\obj\Debug\ProductosM.csproj.AssemblyReference.cache
+C:\Users\Fredy Diaz\source\repos\ProductosM\ProductosM\obj\Debug\ProductosM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fredy Diaz\source\repos\ProductosM\ProductosM\obj\Debug\ProductosM.Form1.resources
+C:\Users\Fredy Diaz\source\repos\ProductosM\ProductosM\obj\Debug\ProductosM.Properties.Resources.resources
+C:\Users\Fredy Diaz\source\repos\ProductosM\ProductosM\obj\Debug\ProductosM.csproj.GenerateResource.cache
+C:\Users\Fredy Diaz\source\repos\ProductosM\ProductosM\obj\Debug\ProductosM.csproj.CoreCompileInputs.cache
+C:\Users\Fredy Diaz\source\repos\ProductosM\ProductosM\obj\Debug\ProductosM.exe
+C:\Users\Fredy Diaz\source\repos\ProductosM\ProductosM\obj\Debug\ProductosM.pdb

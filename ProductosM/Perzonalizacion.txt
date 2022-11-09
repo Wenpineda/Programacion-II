@@ -1,0 +1,26 @@
+color del form = 88, 59, 53
+
+color del label mantenimiento = 51, 33, 29
+
+color del label de listados = 68, 46, 41
+
+color de back color de listview y datagrid = 88, 59, 53
+
+propiedades 
+
+label -- autozise = false
+boton -- flatstyle = flat
+
+acceder al flatappearance del boton
+
+datagridview -- ColumnHeaderDefualtCellStyle
+datagridview -- DefaultcellStyle
+datagridview -- EnableHeaderVisibleStyle = false
+datagridview -- ColumnheaderBorderStyle
+datagridview -- ColumnHeadersHeightZiseMode = disableResizing
+datagridview -- ColumnHeaderHeight
+datagridview -- selectionMode = FullRowSelect -- para que deje cargar los datos de nuevo en los campos
+
+
+
+
