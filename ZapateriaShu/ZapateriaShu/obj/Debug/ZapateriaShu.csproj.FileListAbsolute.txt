@@ -1,0 +1,11 @@
+C:\Users\ALUMNO\Documents\Wendy.p\ZapateriaShu\ZapateriaShu\bin\Debug\ZapateriaShu.exe.config
+C:\Users\ALUMNO\Documents\Wendy.p\ZapateriaShu\ZapateriaShu\bin\Debug\ZapateriaShu.exe
+C:\Users\ALUMNO\Documents\Wendy.p\ZapateriaShu\ZapateriaShu\bin\Debug\ZapateriaShu.pdb
+C:\Users\ALUMNO\Documents\Wendy.p\ZapateriaShu\ZapateriaShu\obj\Debug\ZapateriaShu.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Documents\Wendy.p\ZapateriaShu\ZapateriaShu\obj\Debug\ZapateriaShu.Form1.resources
+C:\Users\ALUMNO\Documents\Wendy.p\ZapateriaShu\ZapateriaShu\obj\Debug\ZapateriaShu.Properties.Resources.resources
+C:\Users\ALUMNO\Documents\Wendy.p\ZapateriaShu\ZapateriaShu\obj\Debug\ZapateriaShu.csproj.GenerateResource.cache
+C:\Users\ALUMNO\Documents\Wendy.p\ZapateriaShu\ZapateriaShu\obj\Debug\ZapateriaShu.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Documents\Wendy.p\ZapateriaShu\ZapateriaShu\obj\Debug\ZapateriaShu.exe
+C:\Users\ALUMNO\Documents\Wendy.p\ZapateriaShu\ZapateriaShu\obj\Debug\ZapateriaShu.pdb
+C:\Users\ALUMNO\Documents\Wendy.p\ZapateriaShu\ZapateriaShu\obj\Debug\ZapateriaShu.Presentacion.FormLogin.resources
